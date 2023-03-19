@@ -13,7 +13,7 @@ Awards:
 
 
 ### Cambridge ‘N’ (Academics) Level (NA)
-**Paya Lebar Medothist Girls' School (Secondary) - Singapore *(2011-2016)***
+**Paya Lebar Methodist Girls' School (Secondary) - Singapore *(2011-2016)***
 
 Awards:
  - 
@@ -55,3 +55,6 @@ Achievements:
 ## Relevant Information
 
  - Driving License : Class 3
+ 
+ ***
+ - https://carsiao.github.io/Digital-CV/
