@@ -42,7 +42,7 @@ Achievements:
 - Programming Languages: C++
 - Engineering Design: AutoCAD,
 - Design: Adobe Photoshop, Wondershare Filmora
-- Productivity: MS Office, Zoom,  Slack, GitHub
+- Productivity: MS Office, Zoom, GitHub
 
 ***
 
