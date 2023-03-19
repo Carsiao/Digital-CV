@@ -56,5 +56,4 @@ Achievements:
 
  - Driving License : Class 3
  
- ***
- - https://carsiao.github.io/Digital-CV/
+ https://carsiao.github.io/Digital-CV/
