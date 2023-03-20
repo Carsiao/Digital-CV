@@ -56,7 +56,7 @@ Achievements:
 
 ## 📌 On The Side (Co-Curricular Activities)
 - **Member, School of Engineering Rangers  *(Apr 2017 - May 2021)***
-	-Ambassador of Ngee Ann Polytechnic’s School of Engineering. Participate and plan outreach events to 
+	- Ambassador of Ngee Ann Polytechnic’s School of Engineering. Participate and plan outreach events to 
 promote the engineering courses to secondary school students.  
 
 - **Treasurer, Ngee Ann Polytechnic's Radio Control Club *(Apr 2016 - Oct 2018)***
@@ -65,11 +65,11 @@ promote the engineering courses to secondary school students.
 - **Participant, The Christieara Programme Camp(Invitation Only) *(2017- 2019)***
 	- Participated in a camp to sharpen my leadership and communication skills; allowing me to work more effectively as an individual and in teams.
 - **Participant, Overseas Leadership Training (LEAP) Camp *(2018)***
-  - Participated in a camp to sharpen my leadership and communication skills; allowing me to work more effectively as an individual and in teams.
+-	Participated in a camp to sharpen my leadership and communication skills; allowing me to work more effectively as an individual and in teams.
 
 - **Volunteer Repair Coach, Repair Kopitiam (Community Service) *(2021 - Pesent)***
- - Guide members of the public in repairing their defective or damaged electrical appliances (e.g fans, water kettle) 
- - Promote sustainability towards a Zero Waste Singapore by encouraging participants to embrace the repair culture to give their items a new lease of life and combat waste. 
+	- Guide members of the public in repairing their defective or damaged electrical appliances (e.g fans, water kettle) 
+	- Promote sustainability towards a Zero Waste Singapore by encouraging participants to embrace the repair culture to give their items a new lease of life and combat waste. 
 
 
 
