@@ -16,7 +16,7 @@ Awards:
 
 
 ### Cambridge ‘N’ (Academics) Level (NA)
-**Paya Lebar Methodist Girls' School (Secondary) - Singapore *(2011-2016)***
+**Paya Lebar Methodist Girls' School (Secondary) - Singapore *(2011-2015)***
 
 Awards:
  - Dean’s List (Academic Excellence) Award (PLMGSS) (2014)
