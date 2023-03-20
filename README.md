@@ -27,7 +27,7 @@ Awards:
  - Recipient of NYAA Bronze Award
 
 Achievements: 
- - Secured place in Polytechnic Foundation Programme (PFP) at Ngee Ann Polytechnic in-lieu of ‘O’ Levels; PFP, a specially designed for the top ‘N’ Level (Academic) cohort.
+ - Secured place in Polytechnic Foundation Programme (PFP) at Ngee Ann Polytechnic in-lieu of ‘O’ Levels; PFP, a programme specially designed for the top ‘N’ Level (Academic) cohort.
 
 ***
 
