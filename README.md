@@ -31,7 +31,7 @@ Achievements:
 
 ***
 
-## 👔 Technical Experience
+## ⚙️ Technical Experience
 **Intern** - With Jinson Autocare Pte Ltd / Classic Motorworks  *(Oct 2020 - Feb 2021)* 
  - Junior Automotive Mechanic (FYP Intern) 
  - Placed in-charge of vehicle engine, fuel and electrical systems of project vehicle, 1976 Lincoln Continental.
@@ -47,13 +47,6 @@ Achievements:
 
 ***
 
-## 🏆 Competitions and Events
-- **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) *(2020)*
-  - Expressed creativity by creating and proposing an eco-friendly Chinese New Year product for the festive period.
-
-
-***
-
 ## 📌 On The Side (Co-Curricular Activities)
 - **Member, School of Engineering Rangers  *(Apr 2017 - May 2021)***
 	- Ambassador of Ngee Ann Polytechnic’s School of Engineering. Participate and plan outreach events to 
@@ -65,10 +58,22 @@ promote the engineering courses to secondary school students.
 - **Participant, The Christieara Programme Camp(Invitation Only) *(2017)***
 	- Participated in a camp to sharpen my leadership and communication skills; allowing me to work more effectively as an individual and in teams.
 
-- **Volunteer Repair Coach, Repair Kopitiam (Community Service) *(2021 - Pesent)***
+
+***
+
+## 🤝🏻 Community Service
+- **Volunteer Repair Coach, Repair Kopitiam *(2021 - Pesent)***
 	- Guide members of the public in repairing their defective or damaged electrical appliances (e.g fans, water kettle) 
 	- Promote sustainability towards a Zero Waste Singapore by encouraging participants to embrace the repair culture to give their items a new lease of life and combat waste. 
 
+- **Ad-hoc Volunteer, Marsiling Zone 3 RC *(2019)***
+	- Assists residents to fill out Financial Assistance Form & Transport Voucher Application. 
+
+***
+
+## 🏆 Competitions and Events
+- **Participant**, Mapletree-SCCCI [River Hongbao Hackathon 2021](https://www.facebook.com/riverhongbaosg/videos/rhbhacks-2021-is-back/358824385315976/) *(2020)*
+  - Expressed creativity by creating and proposing an eco-friendly Chinese New Year product for the festive period.
 
 
 ***
