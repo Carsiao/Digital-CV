@@ -1,3 +1,7 @@
+theme: jekyll-theme-minimal
+title: ✒️
+description: Joey's CV
+
 # JOEY K. YAM
 Diploma Student
 
