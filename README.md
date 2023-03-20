@@ -62,9 +62,7 @@ promote the engineering courses to secondary school students.
 - **Treasurer, Ngee Ann Polytechnic's Radio Control Club *(Apr 2016 - Oct 2018)***
 	- Handled administration and financial tasks.
 
-- **Participant, The Christieara Programme Camp(Invitation Only) *(2017- 2019)***
-	- Participated in a camp to sharpen my leadership and communication skills; allowing me to work more effectively as an individual and in teams.
-- **Participant, Overseas Leadership Training (LEAP) Camp *(2018)***
+- **Participant, The Christieara Programme Camp(Invitation Only) *(2017)***
 	- Participated in a camp to sharpen my leadership and communication skills; allowing me to work more effectively as an individual and in teams.
 
 - **Volunteer Repair Coach, Repair Kopitiam (Community Service) *(2021 - Pesent)***
