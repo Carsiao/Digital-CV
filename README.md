@@ -1,6 +1,3 @@
-#theme: jerkyll-theme-minimal
-remote_theme: "just-the-docs/just-the-docs"
-
 # JOEY K. YAM
 Diploma Student
 
