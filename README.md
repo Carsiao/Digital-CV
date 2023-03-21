@@ -65,10 +65,10 @@ Engineering ambassadors. It was one of the biggest events participated by severa
 - **Participant, Teaching & Learning Methodologies of LIM 2.0 (Invitation Only) *(2018-2019)***
 	- Specially invited by my lecturers to provide constructive feedback for modules under the School of Interdisciplinary Studies (NP).
 
-**Class Representative, Mechanical Engineering Division (NP)  *(2017)***
+- **Class Representative, Mechanical Engineering Division (NP)  *(2017)***
 	- Represented my class at the ME Course Dialogue and advocated for our suggestion to host inter-class engineering competitions. 
 	
-**Leader, 2017 AeroChallenge  *(2017)***
+- **Leader, 2017 AeroChallenge  *(2017)***
 	- Engaged and lead my assigned group of secondary school students to their respective game venues while also sharing insights on Ngee Ann Polytechnic's engineering courses. 
 
 
