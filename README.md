@@ -47,16 +47,34 @@ Achievements:
 
 ***
 
-## 📌 On The Side (Co-Curricular Activities)
+## 📌 Co-Curricular Activities
 - **Member, School of Engineering Rangers  *(Apr 2017 - May 2021)***
-	- Ambassador of Ngee Ann Polytechnic’s School of Engineering. Participate and plan outreach events to 
+	- Ambassador of Ngee Ann Polytechnic’s School of Engineering. Participated and planned outreach events to 
 promote the engineering courses to secondary school students.  
 
 - **Treasurer, Ngee Ann Polytechnic's Radio Control Club *(Apr 2016 - Oct 2018)***
 	- Handled administration and financial tasks.
+	
+- **Overall-in-Charge, 2018 Math Challenge  *(2018)***
+	- As the Overall-In-Charge, I oversaw the planning, execution, and coordination of fellow School of
+Engineering ambassadors. It was one of the biggest events participated by several secondary schools.
+	
+- **Assistant Class Representative, School of Engineering (NP)  *(2018-2019)***
+	- Assisted the class representative with administration duties. 
 
-- **Participant, The Christieara Programme Camp(Invitation Only) *(2017)***
-	- Participated in a camp to sharpen my leadership and communication skills; allowing me to work more effectively as an individual and in teams.
+- **Participant, Teaching & Learning Methodologies of LIM 2.0 (Invitation Only) *(2018-2019)***
+	- Specially invited by my lecturers to provide constructive feedback for modules under the School of Interdisciplinary Studies (NP).
+
+**Class Representative, Mechanical Engineering Division (NP)  *(2017)***
+	- Represented my class at the ME Course Dialogue and advocated for our suggestion to host inter-class engineering competitions. 
+	
+**Leader, 2017 AeroChallenge  *(2017)***
+	- Engaged and lead my assigned group of secondary school students to their respective game venues while also sharing insights on Ngee Ann Polytechnic's engineering courses. 
+
+
+- **Participant, The Christieara Programme Camp (Invitation Only) *(2017)***
+	- The Christieara Programme is Ngee Ann Polytechnic’s talent development programme offered exclusively to students with strong academic performance, leadership skills and exemplary character. Students are provided with the opportunity to participate in workshops, dialogues and camps to enrich themselves.  
+	- The camp sharpened my leadership and communication skills; allowing me to work more efficiently as an individual and in teams.
 
 
 ***
