@@ -3,8 +3,6 @@ Diploma Student
 
 ***
 
-<img src= "./images/Shih Tzu.png" alt="hi" class="inline"/>
-
 ## 🎓 Education
 
 ### Diploma in Mechanical Engineering (SOE ME)
